@@ -3,7 +3,7 @@
 ✨ Fullstack Developer ✨
 
 - 💡  Javascript, Java, Python, Golang
-- 🔭 I’m currently working on [Lyra Robotics](https://lyrarobotics.io/), [Luminous Software](https://twitter.com/luminousftware), [Bounce Software](https://bouncealerts.com/), 👻
+- 🔭 I’m currently working on [Lyra Robotics](https://lyrarobotics.io/), [Luminous Software](https://twitter.com/luminousftware), [Bounce Software](https://bouncealerts.com/), 👻?
 - 🌱 I’m currently learning Rust, C++
 
 
