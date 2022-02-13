@@ -3,7 +3,7 @@
 ✨ Fullstack Developer ✨
 
 - 💡  JavaScript, TypeScript, Java, Python, Golang
-- 🔭 I’m currently working on [Kosher Kit](https://twitter.com/kosherkit/), [Luminous Software](https://twitter.com/luminousftware), [Bounce Software](https://bouncealerts.com/), 👻?
+- 🔭 I’m currently working on myself
 - 💻 Technologies in my stack: Git, SQL, React, Vue, Docker, Kubernetes, TensorFlow
 - 🌱 I’m currently learning Rust, C++
 - 🚨 Most of my repositories are private :/
