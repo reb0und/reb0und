@@ -3,7 +3,6 @@
 ✨ Fullstack Developer ✨
 
 - 💡  JavaScript, TypeScript, Java, Python, Golang
-- 🔭 I’m currently working on porn
 - 💻 Technologies in my stack: Git, SQL, React, Vue, Docker, Kubernetes, TensorFlow
 - 🌱 I’m currently learning C++
 - 🚨 Most of my repositories are private :/
