@@ -2,9 +2,9 @@
 
 ✨ Fullstack Developer ✨
 
-- 💡  JavaScript, TypeScript, Java, Python, Golang
+- 💡 JavaScript, TypeScript, Java, Python, Go
 - 💻 Technologies in my stack: Git, SQL, React, Vue, Docker, Kubernetes, TensorFlow
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust, Swift
 - 🚨 Most of my repositories are private :/
 
 
