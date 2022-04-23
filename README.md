@@ -3,7 +3,7 @@
 ✨ Fullstack Developer ✨
 
 - 💡 Java, Python, Rust, Go, JavaScript/TypeScript, HTML, CSS
-- 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, Express, React
+- 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, MySQL, Express, React, Gin
 - 🌱 I’m currently learning C, Swift
 - 🚨 Most of my repositories are private :/
 
