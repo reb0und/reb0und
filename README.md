@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm reb0und
 
-✨ Fullstack Developer ✨
+🌐 Fullstack Developer
 
 - 💡 Java, Python, Rust, Go, JavaScript/TypeScript, HTML, CSS
 - 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, GitHub Actions, CI/CD, Circle CI, and more
