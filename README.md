@@ -2,7 +2,7 @@
 
 🌐 Backend Developer
 
-- 💡 Java, Python, Go, JavaScript/TypeScript
+- 💡 Proficient in Java, Python, Go, JavaScript/TypeScript
 - 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, GitHub Actions, CI/CD, Circle CI, and more
 - 🌱 I’m currently learning C
 - 🚨 Most of my repositories are private :/
