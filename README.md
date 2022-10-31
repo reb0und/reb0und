@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm reb0und
 
-#### Backend Developer
+#### Backend Engineer
 
 ###### Personal website & updated README coming soon
 
