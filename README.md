@@ -2,7 +2,7 @@
 
 #### Backend Engineer
 
-###### Personal website & updated README coming soon
+###### 🔜 Personal website & updated README coming soon 
 
 - 💡 Proficient in Java, Python, Go, JavaScript/TypeScript
 - 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
