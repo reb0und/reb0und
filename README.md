@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm reb0und
 
-## Backend Developer
+#### Backend Developer
 
-# Personal website & updated README coming soon
+###### Personal website & updated README coming soon
 
 - 💡 Proficient in Java, Python, Go, JavaScript/TypeScript
 - 💻 Technologies in my stack: Git, MySQL, Docker, Kubernetes, TensorFlow, MongoDB, PostgreSQL, Express, React, Gin, Spring Boot, Tomcat, Maven, Gradle, Circle CI, and more
