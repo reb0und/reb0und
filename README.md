@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reb0und&show_icons=true&theme=dracula&locale=en" alt="reb0und" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reb0und" alt="reb0und" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reb0und&theme=dark" alt="reb0und" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reb0und" alt="reb0und" /></p>
