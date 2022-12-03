@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [rebound.sh](rebound.sh)
 
-- 💬 Ask me about **Java, Go, cloud infrastructure**
+- 💬 Ask me about anything cloud related
 
 - 📫 How to reach me **me@rebound.sh**
 
